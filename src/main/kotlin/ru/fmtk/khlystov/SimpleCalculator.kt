@@ -1,6 +1,6 @@
 package ru.fmtk.khlystov
 
-import java.util.*
+import java.util.Scanner
 
 fun main() {
     val sc = Scanner(System.`in`)
