@@ -1,0 +1,41 @@
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+/out/
+/monolith/out/
+.idea/
+
+### Gradle ###
+.gradletasknamecache
+.gradle
+build/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/ 
+
+### Another files ###
+*.log
+*.gz
+HELP.md
+data/
